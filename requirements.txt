@@ -1,0 +1,4 @@
+beautifulsoup4==4.3.2
+mecab-python==0.996
+pykakasi==0.23
+pyperclip==1.5.7
