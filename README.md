@@ -9,10 +9,10 @@ Run the main.py
 
 Dependencies
 ---------
-Apart from requirements.txt, there is also some other dependencies
-Python 2.7.x: https://www.python.org/
-MeCab: http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html
-wxPython: http://www.wxpython.org/
+Apart from requirements.txt, there is also some other dependencies:
+- Python 2.7.x: https://www.python.org/
+- MeCab: http://mecab.googlecode.com/svn/trunk/mecab/doc/index.html
+- wxPython: http://www.wxpython.org/
 
 There is no 64-bit version for mecab-python, I have compiled one, but **with caution**, it is **not** compiled with VS2008 as stated required [here](http://stackoverflow.com/questions/3047542/building-lxml-for-python-2-7-on-windows/5122521#5122521). Instead, for my convenience, it is compiled with VS2013.
 
